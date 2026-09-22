@@ -52,9 +52,7 @@ Password-Security-Analyzer/
 │   └── common_passwords.txt
 ├── tests/
 │   └── test_analyzer.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+
 ```
 
 ## Formula
